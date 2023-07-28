@@ -3523,15 +3523,6 @@ p {
   background-position: center center;
 }
 
-.bg-half-120 {
-  padding: 120px 0;
-  background-size: cover !important;
-  -ms-flex-item-align: center;
-      align-self: center;
-  position: relative !important;
-  background-position: center center;
-}
-
 .bg-half {
   padding: 200px 0 100px;
   background-size: cover !important;
