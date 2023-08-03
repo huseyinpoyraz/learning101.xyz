@@ -745,7 +745,7 @@ p {
   background-color: #2f55d4 !important;
 }
 
-.navbar-white-- {
+.navbar-white-bg {
   background-color: #fff !important;
 }
 
@@ -5831,10 +5831,6 @@ html[dir=rtl] .tns-visually-hidden {
 
 .mt-100 {
   margin-top: 100px;
-}
-
-.mt-50 {
-  margin-top: 50px;
 }
 
 .text-slider {
